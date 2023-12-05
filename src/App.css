@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    transition: 50ms;
+
+}
+body{
+    background-image: linear-gradient(to right, rgb(255, 255, 255), #00008d);
+}
+
+.qbox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
